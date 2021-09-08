@@ -1,4 +1,4 @@
-;; From Chapters 5 & 6
+; From Chapters 5 & 6
 
 (defparameter *nodes* '((living-room (you are in the living-room.
                               a wizard is snoring loudly on the couch.))
